@@ -499,7 +499,7 @@ footer #follow-head{
 
 
 
-@media (max-width:799px){
+/* @media (max-width:799px){
     #navbar{
         display: flex;
         flex-direction: column;
@@ -542,7 +542,7 @@ footer #follow-head{
         color: black;
         font-size: 24px;
     }
-}
+} */
 
 /* For Shop Page */
 #page-header{
